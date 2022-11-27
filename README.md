@@ -4,17 +4,10 @@
 </p>
 
 ---
-<h1 align="center">Problem Solving</h1> 
 
 <br/><br/>     
-
-|  |                                                             Title                                                             |                                        Solution                                         | Difficulty  |
-|:---:|:-------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------:|:------:|
-| 1 |                                 [**Contains Duplicate**](https://leetcode.com/problems/contains-duplicate/)                                 | [✅]()  |  `Easy`  |
-
 
 
 ||Title|Solution|Difficulty|
 |:----|:----:|:----:|:----:|
 |1|[**Contains Duplicate**](https://leetcode.com/problems/contains-duplicate/)|[✅]() | `Easy` |
-
