@@ -17,4 +17,4 @@
 
 |🏷️|Title|Solution|Difficulty|
 |:----|:----:|:----:|:----:|
-|1|[**Contains Duplicate**](https://leetcode.com/problems/contains-duplicate/)|[✅]() | `Easy` |
+|1|[**Contains Duplicate**](https://leetcode.com/problems/contains-duplicate/)|[✅](https://github.com/Tolbaax/Problem-Solving/blob/master/lib/easy/problem_1.dart) | `Easy` |
