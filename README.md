@@ -17,5 +17,5 @@
 
 |🏷️|Title|Solution|Difficulty|
 |:----|:----:|:----:|:----:|
-|1|[**Contains Duplicate**](https://leetcode.com/problems/contains-duplicate/)|[✅]() | `Easy` |
-|2|[**Valid Anagram**](https://leetcode.com/problems/valid-anagram/)|[✅]() | `Easy` |
+|1|[**Contains Duplicate**](https://leetcode.com/problems/contains-duplicate/)|[✅](https://github.com/Tolbaax/Problem-Solving/blob/master/lib/easy/problem_1.dart) | `Easy` |
+|2|[**Valid Anagram**](https://leetcode.com/problems/valid-anagram/)|[✅](https://github.com/Tolbaax/Problem-Solving/blob/master/lib/easy/problem_2.dart) | `Easy` |
