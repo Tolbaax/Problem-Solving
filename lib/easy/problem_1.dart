@@ -1,4 +1,4 @@
-class Solution {
+class Solution1 {
   bool containsDuplicate(List<int> nums) {
     // Create set to store integers
     Set<int> intSet = {};

@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Problems%20Solved-1-sucess.svg" alt="Problems Solved">
+<img src="https://img.shields.io/badge/Problems%20Solved-2-sucess.svg" alt="Problems Solved">
 <img src="https://img.shields.io/badge/Language-Dart-blue.svg" alt="">
 </p>
 
@@ -18,3 +18,4 @@
 |🏷️|Title|Solution|Difficulty|
 |:----|:----:|:----:|:----:|
 |1|[**Contains Duplicate**](https://leetcode.com/problems/contains-duplicate/)|[✅]() | `Easy` |
+|2|[**Valid Anagram**](https://leetcode.com/problems/valid-anagram/)|[✅]() | `Easy` |
