@@ -11,7 +11,7 @@
 ---
 <h1 align="center">Problem Solving Challenge</h1> 
 
-> Collection of problems and solutions of leetcode challenges in dart language.
+> Collection of problems and solutions of leetcode challenges in dart language. 
 
 <br/>  
 
@@ -20,3 +20,4 @@
 |1|[**Contains Duplicate**](https://leetcode.com/problems/contains-duplicate/)|[✅](https://github.com/Tolbaax/Problem-Solving/blob/master/lib/easy/problem_1.dart) | `Easy` |
 |2|[**Valid Anagram**](https://leetcode.com/problems/valid-anagram/)|[✅](https://github.com/Tolbaax/Problem-Solving/blob/master/lib/easy/problem_2.dart) | `Easy` |
 |3|[**Replace Elements with Greatest Element on Right Side**](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)|[✅](https://github.com/Tolbaax/Problem-Solving/blob/master/lib/easy/problem_3.dart) | `Easy` |
+| |
