@@ -9,9 +9,9 @@
 </p>
 
 ---
-<h1 align="center">Problem Solving Challenge</h1> 
+<h1 align="center">LeetCoding Challenge</h1> 
 
-> Collection of problems and solutions of leetcode challenges in dart language. 
+> Collection of problems and solutions of leetcode challenges in dart language.
 
 <br/>  
 
