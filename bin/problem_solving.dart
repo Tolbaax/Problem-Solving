@@ -1,3 +1,4 @@
+
 import 'app.dart';
 
 void main() {
@@ -12,4 +13,7 @@ void main() {
 
   // Problem 4
   print('S4 : ${Solution4().isSubsequence('axc', 'acvst')}');
+
+  // Problem 5
+  print('S4 : ${Solution5().lengthOfLastWord('Hello World  ')}');
 }
