@@ -16,8 +16,8 @@ class Solution5 {
 
 /*
 Explanation
-Start from the tail of s and move backwards to find the first non_space character. Then
+Start from the tail of `s` and move backwards to find the first non_space character. Then
 from this character,move backwards and count the number of non_space character until we
-pass over the head of s or meet a space character. The count will then be length of the
+pass over the head of `s` or meet a space character. The count will then be length of the
 last word.
  */
