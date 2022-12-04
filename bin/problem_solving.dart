@@ -1,4 +1,3 @@
-
 import 'app.dart';
 
 void main() {
@@ -15,5 +14,8 @@ void main() {
   print('S4 : ${Solution4().isSubsequence('axc', 'acvst')}');
 
   // Problem 5
-  print('S4 : ${Solution5().lengthOfLastWord('Hello World  ')}');
+  print('S5 : ${Solution5().lengthOfLastWord('Hello World  ')}');
+
+  // Problem 6
+  print('S6 : ${Solution6().twoSum([1, 2, 3, 5, 6, 10], 9)}');
 }
