@@ -1,13 +1,13 @@
 class Solution6 {
   List<int> twoSum(List<int> nums, int target) {
-    Map<int, int> mp = {};
+    var mp = {};
     List<int> result = [];
     for (int i = 0; i < nums.length; i++) {
-      if (mp.containsValue(target - nums[i])) {
+      if (mp.containsKey(target - nums[i])) {
         result.add(mp[target - nums[i]]!);
         result.add(i);
       }
-      mp[nums[i]] = i;
+      mp.putIfAbsent(nums[i], () => i);
     }
     return result;
   }
