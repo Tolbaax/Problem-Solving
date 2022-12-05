@@ -18,4 +18,7 @@ void main() {
 
   // Problem 6
   print('S6 : ${Solution6().twoSum([1, 2, 3, 5, 6, 10], 9)}');
+
+  // Problem 7
+  print('S7 : ${Solution7().longestCommonPrefix(["flower","flow","flight"])}');
 }
