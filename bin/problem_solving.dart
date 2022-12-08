@@ -21,4 +21,7 @@ void main() {
 
   // Problem 7
   print('S7 : ${Solution7().longestCommonPrefix(["flower","flow","flight"])}');
+
+  // Problem 8
+  print('S8 : ${Solution8().removeElement([1,2,5,3,1,4,1], 1)}');
 }
