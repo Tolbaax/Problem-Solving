@@ -24,4 +24,4 @@
 |5|[**Length of Last Word**](https://leetcode.com/problems/length-of-last-word/)|[✅](https://github.com/Tolbaax/Problem-Solving/blob/master/lib/easy/problem_5.dart) | `Easy` |
 |6|[**Two Sum**](https://leetcode.com/problems/two-sum/)|[✅](https://github.com/Tolbaax/Problem-Solving/blob/master/lib/easy/problem_6.dart) | `Easy` |
 |7|[**Longest Common Prefix**](https://leetcode.com/problems/longest-common-prefix/)|[✅](https://github.com/Tolbaax/Problem-Solving/blob/master/lib/easy/problem_7.dart) | `Easy` |
-|8|[**Remove Element**](https://leetcode.com/problems/remove-element/description/)|[✅](https://github.com/Tolbaax/Problem-Solving/blob/master/lib/easy/problem_8.dart) | `Easy
+|8|[**Remove Element**](https://leetcode.com/problems/remove-element/description/)|[✅](https://github.com/Tolbaax/Problem-Solving/blob/master/lib/easy/problem_8.dart) | `Easy`
