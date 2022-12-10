@@ -22,10 +22,9 @@ class Solution9 {
 Two loops, one go through the row, one go through the column
 database: pretty straight forward, []
 calculate element value: K(i)(j)=K(i-1)(j-1)+K(i-1)(j) except for the first and last element
- */
 
-/*
 ==> Runtime 394 ms <==
+
 class Solution9 {
   List<List<int>> generate(int numRows) {
       List<List<int>> result = [];
