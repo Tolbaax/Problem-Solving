@@ -20,11 +20,18 @@ void main() {
   print('S6 : ${Solution6().twoSum([1, 2, 3, 5, 6, 10], 9)}');
 
   // Problem 7
-  print('S7 : ${Solution7().longestCommonPrefix(["flower","flow","flight"])}');
+  print('S7 : ${Solution7().longestCommonPrefix(["flower", "flow", "flight"])}');
 
   // Problem 8
-  print('S8 : ${Solution8().removeElement([3,2,2,3], 3)}');
+  print('S8 : ${Solution8().removeElement([3, 2, 2, 3], 3)}');
 
   // Problem 9
-  print('S8 : ${Solution9().generate(4)}');
+  print('S9 : ${Solution9().generate(4)}');
+
+  // Problem 10
+  print('S10 : ${Solution10().numUniqueEmails([
+        'tolb.a@gmail.com',
+        'tolba+a@gmail.com',
+        'root@gmail.com',
+      ])}');
 }
