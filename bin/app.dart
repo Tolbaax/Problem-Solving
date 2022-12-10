@@ -6,3 +6,4 @@ export 'package:problem_solving/easy/problem_5.dart';
 export 'package:problem_solving/easy/problem_6.dart';
 export 'package:problem_solving/easy/problem_7.dart';
 export 'package:problem_solving/easy/problem_8.dart';
+export 'package:problem_solving/easy/problem_9.dart';
