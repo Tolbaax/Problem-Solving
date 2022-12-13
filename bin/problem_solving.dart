@@ -34,4 +34,7 @@ void main() {
         'tolba+a@gmail.com',
         'root@gmail.com',
       ])}');
+
+  // Problem 11
+  print('S11 : ${Solution11().isIsomorphic('ald', 'efg')}');
 }
