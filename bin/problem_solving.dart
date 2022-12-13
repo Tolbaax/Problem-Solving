@@ -37,4 +37,7 @@ void main() {
 
   // Problem 11
   print('S11 : ${Solution11().isIsomorphic('ald', 'efg')}');
+
+  // Problem 12
+  print('S12 : ${Solution12().canPlaceFlowers([1, 0, 0, 0, 1, 0, 1], 1)}');
 }
