@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Problems%20Solved-11-sucess.svg" alt="Problems Solved">
+<img src="https://img.shields.io/badge/Problems%20Solved-12-sucess.svg" alt="Problems Solved">
 <img src="https://img.shields.io/badge/Language-Dart-blue.svg" alt="">
 </p>
 
@@ -28,3 +28,4 @@
 |9|[**Pascal's Triangle**](https://leetcode.com/problems/pascals-triangle/)|[✅](https://github.com/Tolbaax/Problem-Solving/blob/master/lib/easy/problem_9.dart) | `Easy`
 |10|[**Unique Email Addresses**](https://leetcode.com/problems/unique-email-addresses/)|[✅](https://github.com/Tolbaax/Problem-Solving/blob/master/lib/easy/problem_10.dart) | `Easy`
 |11|[**Isomorphic Strings**](https://leetcode.com/problems/isomorphic-strings/)|[✅](https://github.com/Tolbaax/Problem-Solving/blob/master/lib/easy/problem_11.dart) | `Easy`
+|12|[**Can Place Flowers**](https://leetcode.com/problems/can-place-flowers/)|[✅](https://github.com/Tolbaax/Problem-Solving/blob/master/lib/easy/problem_12.dart) | `Easy`
