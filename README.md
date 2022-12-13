@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Problems%20Solved-9-sucess.svg" alt="Problems Solved">
+<img src="https://img.shields.io/badge/Problems%20Solved-10-sucess.svg" alt="Problems Solved">
 <img src="https://img.shields.io/badge/Language-Dart-blue.svg" alt="">
 </p>
 
@@ -26,3 +26,4 @@
 |7|[**Longest Common Prefix**](https://leetcode.com/problems/longest-common-prefix/)|[✅](https://github.com/Tolbaax/Problem-Solving/blob/master/lib/easy/problem_7.dart) | `Easy` |
 |8|[**Remove Element**](https://leetcode.com/problems/remove-element/)|[✅](https://github.com/Tolbaax/Problem-Solving/blob/master/lib/easy/problem_8.dart) | `Easy`
 |9|[**Pascal's Triangle**](https://leetcode.com/problems/pascals-triangle/)|[✅](https://github.com/Tolbaax/Problem-Solving/blob/master/lib/easy/problem_9.dart) | `Easy`
+|10|[**Unique Email Addresses**](https://leetcode.com/problems/unique-email-addresses/)|[✅](https://github.com/Tolbaax/Problem-Solving/blob/master/lib/easy/problem_10.dart) | `Easy`
