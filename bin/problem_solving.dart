@@ -30,14 +30,17 @@ void main() {
 
   // Problem 10
   print('S10 : ${Solution10().numUniqueEmails([
-        'tolb.a@gmail.com',
-        'tolba+a@gmail.com',
-        'root@gmail.com',
-      ])}');
+    'tolb.a@gmail.com',
+    'tolba+a@gmail.com',
+    'root@gmail.com',
+  ])}');
 
   // Problem 11
   print('S11 : ${Solution11().isIsomorphic('ald', 'efg')}');
 
   // Problem 12
-  print('S12 : ${Solution12().canPlaceFlowers([1, 0, 0, 0, 1, 0, 1], 1)}');
+  print('S12 : ${Solution12().canPlaceFlowers([1, 0, 0, 0, 1, 0, 0, 1], 2)}');
+
+  // Problem 13
+  print('S13 : ${Solution13().majorityElement([1, 1, 2, 2, 1, 0, 4])}');
 }
