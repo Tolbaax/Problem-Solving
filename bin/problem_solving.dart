@@ -30,10 +30,10 @@ void main() {
 
   // Problem 10
   print('S10 : ${Solution10().numUniqueEmails([
-    'tolb.a@gmail.com',
-    'tolba+a@gmail.com',
-    'root@gmail.com',
-  ])}');
+        'tolb.a@gmail.com',
+        'tolba+a@gmail.com',
+        'root@gmail.com',
+      ])}');
 
   // Problem 11
   print('S11 : ${Solution11().isIsomorphic('ald', 'efg')}');
@@ -43,4 +43,7 @@ void main() {
 
   // Problem 13
   print('S13 : ${Solution13().majorityElement([1, 1, 2, 2, 1, 0, 4])}');
+
+  // Problem 14
+  print('S14 : ${Solution14().findDisappearedNumbers([1, 5, 2, 8, 3, 4])}');
 }

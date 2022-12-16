@@ -11,3 +11,4 @@ export 'package:problem_solving/easy/problem_10.dart';
 export 'package:problem_solving/easy/problem_11.dart';
 export 'package:problem_solving/easy/problem_12.dart';
 export 'package:problem_solving/easy/problem_13.dart';
+export 'package:problem_solving/easy/problem_14.dart';
