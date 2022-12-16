@@ -45,5 +45,8 @@ void main() {
   print('S13 : ${Solution13().majorityElement([1, 1, 2, 2, 1, 0, 4])}');
 
   // Problem 14
-  print('S14 : ${Solution14().findDisappearedNumbers([1, 5, 2, 8, 3, 4])}');
+  // print('S14 : ${Solution14().findDisappearedNumbers([1, 5, 2, 8, 3, 4])}');
+
+  // Problem 15
+  print('S15 : ${Solution15().wordPattern("abca", "dog cat root shit")}');
 }
