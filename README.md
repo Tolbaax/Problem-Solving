@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Problems%20Solved-14-sucess.svg" alt="Problems Solved">
+<img src="https://img.shields.io/badge/Problems%20Solved-15-sucess.svg" alt="Problems Solved">
 <img src="https://img.shields.io/badge/Language-Dart-blue.svg" alt="">
 </p>
 
@@ -31,3 +31,4 @@
 |12|[**Can Place Flowers**](https://leetcode.com/problems/can-place-flowers/)|[✅](https://github.com/Tolbaax/Problem-Solving/blob/master/lib/easy/problem_12.dart) | `Easy`
 |13|[**Majority Element**](https://leetcode.com/problems/majority-element/)|[✅](https://github.com/Tolbaax/Problem-Solving/blob/master/lib/easy/problem_13.dart) | `Easy`
 |14|[**Find All Numbers Disappeared in an Array**](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[✅](https://github.com/Tolbaax/Problem-Solving/blob/master/lib/easy/problem_14.dart) | `Easy`
+|15|[**Word Pattern**](https://leetcode.com/problems/word-pattern/)|[✅](https://github.com/Tolbaax/Problem-Solving/blob/master/lib/easy/problem_15.dart) | `Easy`
