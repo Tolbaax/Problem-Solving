@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Problems%20Solved-18-sucess.svg" alt="Problems Solved">
+<img src="https://img.shields.io/badge/Problems%20Solved-19-sucess.svg" alt="Problems Solved">
 <img src="https://img.shields.io/badge/Language-Dart-blue.svg" alt="">
 </p>
 
@@ -35,3 +35,4 @@
 |16|[**Group Anagrams**](https://leetcode.com/problems/group-anagrams/)|[✅](https://github.com/Tolbaax/Problem-Solving/blob/master/lib/medium/problem_1.dart) | `Medium`
 |17|[**Top K Frequent Elements**](https://leetcode.com/problems/top-k-frequent-elements/)|[✅](https://github.com/Tolbaax/Problem-Solving/blob/master/lib/medium/problem_2.dart) | `Medium`
 |18|[**Longest Consecutive Sequence**](https://leetcode.com/problems/longest-consecutive-sequence/)|[✅](https://github.com/Tolbaax/Problem-Solving/blob/master/lib/medium/problem_3.dart) | `Medium`
+|19|[**Subarray Sum Equals K**](https://leetcode.com/problems/subarray-sum-equals-k/)|[✅](https://github.com/Tolbaax/Problem-Solving/blob/master/lib/medium/problem_4.dart) | `Medium`
