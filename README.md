@@ -6,6 +6,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Problems%20Solved-19-sucess.svg" alt="Problems Solved">
 <img src="https://img.shields.io/badge/Language-Dart-blue.svg" alt="">
+<img src="https://img.shields.io/badge/Language-C++-blue.svg" alt="">
 </p>
 
 ---
