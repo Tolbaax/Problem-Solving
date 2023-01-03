@@ -9,4 +9,7 @@ void main() {
 
   // Problem 3
   print('S3 : ${Solution3().longestConsecutive([100, 200, 4, 1, 2, 3])}');
+
+  // Problem 4
+  print('S4 : ${Solution4().subarraySum([1, 2, 3], 3)}');
 }
