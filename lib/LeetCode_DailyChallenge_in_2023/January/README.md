@@ -5,5 +5,5 @@
 
 |🏷️|Title|Solution|Difficulty|
 |:----|:----:|:----:|:----:|
-|1|[**Word Pattern**](https://leetcode.com/problems/word-pattern/)|[✅](https://github.com/Tolbaax/Problem-Solving/blob/master/lib/LeetCode_DailyChallenge_in_2023/January/1-word_pattern.dart) | `Easy` |
-|2|[**Detect Capital**](https://leetcode.com/problems/detect-capital/)|[✅](https://github.com/Tolbaax/Problem-Solving/blob/master/lib/LeetCode_DailyChallenge_in_2023/January/2-detect_capital.dart) | `Easy` |
+|1|[**Word Pattern**](https://leetcode.com/problems/word-pattern/)|[✅](https://github.com/Tolbaax/Problem-Solving/blob/master/lib/LeetCode_DailyChallenge_in_2023/January/solutions/1-word_pattern.dart) | `Easy` |
+|2|[**Detect Capital**](https://leetcode.com/problems/detect-capital/)|[✅](https://github.com/Tolbaax/Problem-Solving/blob/master/lib/LeetCode_DailyChallenge_in_2023/January/solutions/2-detect_capital.dart) | `Easy` |
