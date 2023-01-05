@@ -49,4 +49,7 @@ void main() {
 
   // Problem 15
   print('S15 : ${Solution15().wordPattern("abca", "dog cat root shit")}');
+
+  // Problem 16
+  print('S16 : ${Solution16().detectCapitalUse('WORD')}');
 }
