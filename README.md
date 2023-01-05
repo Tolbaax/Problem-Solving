@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Problems%20Solved-19-sucess.svg" alt="Problems Solved">
+<img src="https://img.shields.io/badge/Problems%20Solved-22-sucess.svg" alt="Problems Solved">
 <img src="https://img.shields.io/badge/Language-Dart-blue.svg" alt="">
 </p>
 
@@ -36,3 +36,12 @@
 |17|[**Top K Frequent Elements**](https://leetcode.com/problems/top-k-frequent-elements/)|[✅](https://github.com/Tolbaax/Problem-Solving/blob/master/lib/medium/problem_2.dart) | `Medium`
 |18|[**Longest Consecutive Sequence**](https://leetcode.com/problems/longest-consecutive-sequence/)|[✅](https://github.com/Tolbaax/Problem-Solving/blob/master/lib/medium/problem_3.dart) | `Medium`
 |19|[**Subarray Sum Equals K**](https://leetcode.com/problems/subarray-sum-equals-k/)|[✅](https://github.com/Tolbaax/Problem-Solving/blob/master/lib/medium/problem_4.dart) | `Medium`
+<hr>
+
+<h1 align="center">LeetCode DailyChallenge in 2023</h1> 
+
+
+## Solutions
+- [**`January`**](https://github.com/Tolbaax/Problem-Solving/tree/master/lib/LeetCode_DailyChallenge_in_2023/January)
+
+<hr>
