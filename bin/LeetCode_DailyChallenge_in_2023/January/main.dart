@@ -1,5 +1,3 @@
-import 'package:problem_solving/LeetCode_DailyChallenge_in_2023/January/problems/3-Delete_Columns_to_Make_Sorted.dart';
-
 import 'app.dart';
 
 void main() {
@@ -11,4 +9,7 @@ void main() {
 
   // Problem 3
   print('S3 : ${Solution3().minDeletionSize(["ass", "frs", "qws"])}');
+
+  // Problem 4
+  print('S4 : ${Solution4().minimumRounds([2, 2, 3, 3, 2, 4, 4, 4, 4, 4])}');
 }
