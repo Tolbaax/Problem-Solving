@@ -1,3 +1,4 @@
+
 import 'app.dart';
 
 void main() {
@@ -15,4 +16,7 @@ void main() {
 
   // Problem 5
   print('S5 : ${Solution5().findMinArrowShots([[10,16],[2,8],[1,6],[7,12]])}');
+
+  // Problem 6
+  print('S6 : ${Solution6().maxIceCream([1, 3, 2, 4, 1], 7)}');
 }
