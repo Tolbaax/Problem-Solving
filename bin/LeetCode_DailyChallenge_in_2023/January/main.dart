@@ -12,4 +12,7 @@ void main() {
 
   // Problem 4
   print('S4 : ${Solution4().minimumRounds([2, 2, 3, 3, 2, 4, 4, 4, 4, 4])}');
+
+  // Problem 5
+  print('S5 : ${Solution5().findMinArrowShots([[10,16],[2,8],[1,6],[7,12]])}');
 }
