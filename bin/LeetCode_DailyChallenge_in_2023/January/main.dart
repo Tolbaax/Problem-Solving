@@ -1,3 +1,4 @@
+import 'package:problem_solving/LeetCode_DailyChallenge_in_2023/January/problems/7-Gas%20Station.dart';
 
 import 'app.dart';
 
@@ -19,4 +20,7 @@ void main() {
 
   // Problem 6
   print('S6 : ${Solution6().maxIceCream([1, 3, 2, 4, 1], 7)}');
+
+  // Problem 7
+  print('S7 : ${Solution7().canCompleteCircuit([1, 2, 3, 4, 5], [3, 4, 5, 1, 2])}');
 }
