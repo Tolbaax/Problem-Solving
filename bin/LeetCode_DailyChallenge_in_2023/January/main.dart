@@ -1,5 +1,3 @@
-import 'package:problem_solving/LeetCode_DailyChallenge_in_2023/January/problems/7-Gas%20Station.dart';
-
 import 'app.dart';
 
 void main() {
@@ -23,4 +21,7 @@ void main() {
 
   // Problem 7
   print('S7 : ${Solution7().canCompleteCircuit([1, 2, 3, 4, 5], [3, 4, 5, 1, 2])}');
+
+  // Problem 8
+  print('S8 : ${Solution8().maxPoints([[1,1],[2,2],[3,3]])}');
 }
