@@ -24,4 +24,6 @@ void main() {
 
   // Problem 8
   print('S8 : ${Solution8().maxPoints([[1,1],[2,2],[3,3]])}');
+
+
 }
