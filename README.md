@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Problems%20Solved-28-sucess.svg" alt="Problems Solved">
+<img src="https://img.shields.io/badge/Problems%20Solved-29-sucess.svg" alt="Problems Solved">
 <img src="https://img.shields.io/badge/Language-Dart-blue.svg" alt="">
 </p>
 
