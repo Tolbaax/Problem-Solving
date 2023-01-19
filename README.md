@@ -40,7 +40,6 @@
 
 <h1 align="center">LeetCode DailyChallenge in 2023</h1> 
 
-00
 ## `Solutions`
 - ### [**January**](https://github.com/Tolbaax/Problem-Solving/tree/master/lib/LeetCode_DailyChallenge_in_2023/January)
 
